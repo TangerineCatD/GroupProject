@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="660" prefWidth="560.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controller.homepageC">
+   <children>
+      <ImageView fitHeight="660" fitWidth="560.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/sample/image/Piexlmain.gif" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="startGame" fitHeight="88.0" fitWidth="250" layoutX="125" layoutY="450" onMouseClicked="#MouseClickedStartGame" onMouseEntered="#MouseEnteredStartGame" onMouseExited="#MouseExitedStartGame" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/sample/image/87f72423560570ea8f299dd92877edc.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

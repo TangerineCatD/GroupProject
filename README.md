@@ -3,7 +3,7 @@
 # Video Demo
 https://www.youtube.com/watch?v=KEMWH827Gqc
 # Declaration:
--Most of the pictures in the game are used from www.pinterest.com
+Most of the pictures in the game are used from www.pinterest.com
 ## Purpose of the software includes:
 - Which type of software development process to use.
   Agile  

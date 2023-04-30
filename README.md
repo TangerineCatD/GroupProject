@@ -26,7 +26,7 @@ Most of the pictures in the game are used from www.pinterest.com
 3. Learn some cultural knowledge, such as Japanese variant characters, architectural signs, etc..
 4. Pass the boring time and relax .
 
-
+## Development Process
 ## Algorithm
 This RandomRectangle() method implements a game interface that generates a random pattern and contains some algorithms. Specifically: 
 

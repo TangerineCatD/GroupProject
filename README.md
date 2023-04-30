@@ -1,5 +1,7 @@
 # Game Background
 ![Piexlbdalt]( https://github.com/TangerineCatD/untitled6/blob/master/Piexl.gif "Piexlbd")
+# Declaration:
+-Most of the pictures in the game are used from www.pinterest.com
 ## Purpose of the software includes:
 - Which type of software development process to use.Agile  
 

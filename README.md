@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=SQykK40fFds
 
 https://www.youtube.com/watch?v=AubJaosfI-0
 
+# Computer Configuration
+I think that as long as the computer operating system can run this software, because it is not a very large file.
+
 ## Purpose of the software includes:
 - Which type of software development process to use.
   

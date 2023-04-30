@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=KEMWH827Gqc
 # Declaration:
 Most of the pictures in the game are used from www.pinterest.com
 
+# Gameplay
+Find the same pattern, click to eliminate the pictures, mistakes will have the error sound, until all pictures are eliminated
 # How to use
 At this stage is still only a test, you can see that the game still has many shortcomings, if you want to download the game or learn javaFx technology you need to refer to the following content. Including the installation and configuration of java, and javafx configuration because javafx in the post-11 version of the separation out of a separate entity is not included in the java inside if the error may be less javafx some of the files
 

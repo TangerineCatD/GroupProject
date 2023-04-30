@@ -27,11 +27,11 @@ Most of the pictures in the game are used from www.pinterest.com
 4. Pass the boring time and relax .
 
 ## Development Process
-### Planning:
+- Planning:
 In this stage, you need to determine the target group, game mechanism, game design, graphic style, sound effects, etc.
-### Analysis: 
+- Analysis: 
 At this stage, the game needs to be analyzed in detail, including game levels, storyline, character design, game flow, etc., and create the game design document
-### Implementation:
+- Implementation:
 In this stage, you need to start writing the game source code, including game logic, game operation, game archives, etc. At the same time, testing and debugging are needed to ensure the quality of the game.
 ## Algorithm
 This RandomRectangle() method implements a game interface that generates a random pattern and contains some algorithms. Specifically: 
